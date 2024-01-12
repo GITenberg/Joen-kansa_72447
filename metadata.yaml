@@ -1,0 +1,48 @@
+_repo: Joen-kansa_72447
+_version: 0.0.1
+alternative_title: The people of the river. Finnish
+contributor:
+  translator:
+    agent_name: Valkeala, Erkki
+    birthdate: 1896
+    deathdate: 1964
+    gutenberg_agent_id: '56662'
+    url: http://www.gutenberg.org/2009/agents/56662
+    wikipedia: https://fi.wikipedia.org/wiki/Erkki_Valkeila
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Wallace
+description: ''
+gutenberg_issued: '2023-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72447'
+language: fi
+pgterms:marc905: 20231105230335wallace
+pgterms:marc906: '1941'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1941.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Africa -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcsh 'Africa, West -- Fiction'
+- !lcsh 'Indigenous peoples -- Africa, West -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Nopea kävelijä -- Naislähetyssaarnaajan juttu -- Kaunopuheinen nainen
+  -- Rukoileva maurilainen -- Vaiteliaat veljet -- Kahleitten kylä -- Ajattelija ja
+  kumipuu -- Yhdeksän julmaa miestä -- Ngombin kuningatar -- Mies paikalla. -- Akasavan
+  kapina -- Lähetyssaarnaaja -- Keihässeppä -- Munan peli -- Mongotauti -- Sandersin
+  rikos -- Kevät.
+title: Joen kansa
+url: http://www.gutenberg.org/ebooks/72447

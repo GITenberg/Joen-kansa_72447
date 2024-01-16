@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56662'
     url: http://www.gutenberg.org/2009/agents/56662
     wikipedia: https://fi.wikipedia.org/wiki/Erkki_Valkeila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wallace, Edgar
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/999
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72447#Joen-kansa
 gutenberg_issued: '2023-12-18'
 gutenberg_type: Text
 identifiers:
